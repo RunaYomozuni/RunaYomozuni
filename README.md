@@ -45,7 +45,7 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 ## FIN
 ### Ou me contacter ? 
 <a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a> 
-<a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://discord.com/">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="mailto:theo.riak@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 <a href="https://www.instagram.com/bourtitom/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
