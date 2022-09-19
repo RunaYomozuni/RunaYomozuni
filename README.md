@@ -42,5 +42,7 @@ je m'appelle Tom j'ai 16 et je suis chez Eden School en 1er Année
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
+## FIN
 
+### Merci d'avoir pris le temps de lire mon profil 
 ![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
