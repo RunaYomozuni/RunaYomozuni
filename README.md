@@ -30,3 +30,4 @@ je m'appelle Tom j'ai 16 et je suis chez Eden School en 1er Année
 
 ### A venir : 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
