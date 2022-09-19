@@ -6,7 +6,7 @@
 
 ## My Presentation 
 
-je m'appelle Tom j'ai 16 et je suis chez Eden School en 2er Année 
+je m'appelle Tom j'ai 16 et je suis chez Eden School en 2eme Année 
 ### Mes Competences : 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
