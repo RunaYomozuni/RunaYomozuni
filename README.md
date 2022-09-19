@@ -6,7 +6,7 @@
 
 ## My Presentation 
 
-je m'appelle Tom j'ai 16 et je suis chez Eden School en 2eme Année 
+je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année 
 ### Mes Competences : 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,5 +44,11 @@ je m'appelle Tom j'ai 16 et je suis chez Eden School en 2eme Année
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ## FIN
+### Ou me contacter ? 
+<a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a> 
+<a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
+<a href="https://www.instagram.com/bourtitom/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ### Merci d'avoir pris le temps de lire mon profil 
