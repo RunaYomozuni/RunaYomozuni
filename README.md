@@ -49,7 +49,8 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 <a href="mailto:theo.riak@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 <a href="https://www.instagram.com/bourtitom/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
+<a href="https://paypal.me/tbrti">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+</a>
 
 ### Merci d'avoir pris le temps de lire mon profil 
 
