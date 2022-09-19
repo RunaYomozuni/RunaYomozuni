@@ -1,11 +1,12 @@
 # Hello World
 
 
-![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png)
+![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png) ![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
+
 
 ## My Presentation 
 
-je m'appelle Tom j'ai 16 et je suis chez Eden School en 1er Année 
+je m'appelle Tom j'ai 16 et je suis chez Eden School en 2er Année 
 ### Mes Competences : 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,4 +46,3 @@ je m'appelle Tom j'ai 16 et je suis chez Eden School en 1er Année
 ## FIN
 
 ### Merci d'avoir pris le temps de lire mon profil 
-![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
