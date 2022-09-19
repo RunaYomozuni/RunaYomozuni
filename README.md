@@ -4,7 +4,7 @@
 ![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png)   ![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
 
 
-## My Presentation 
+##  🧙🏻‍♂️  My Presentation 
 
 je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année 
 ### 🧑‍💻 Mes Competences : 
@@ -49,5 +49,6 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 <a href="https://steamcommunity.com/id/maisouestdoncornicar/">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 <a href="https://www.instagram.com/bourtitom/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
 
 ### Merci d'avoir pris le temps de lire mon profil 
