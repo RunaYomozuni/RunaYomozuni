@@ -1,4 +1,4 @@
-# Hello World
+# 🌐 Hello World 
 
 
 ![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png)   ![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
@@ -7,7 +7,7 @@
 ## My Presentation 
 
 je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année 
-### Mes Competences : 
+### 🧑‍💻 Mes Competences : 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,6 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-🌐 Browsers
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
