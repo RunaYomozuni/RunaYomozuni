@@ -1,7 +1,10 @@
 # 🌐 Hello World 
 
 
-![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png)   
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png" alt="drawing"/>
+</p>
 
 
 ##  🧙🏻‍♂️  My Presentation 
@@ -54,4 +57,5 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 
 ### Merci d'avoir pris le temps de lire mon profil 
 
-![rick gif](https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif)
+<img src="https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif" alt="drawing" style="width:200px;"/>
+
