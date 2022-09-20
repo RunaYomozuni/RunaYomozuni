@@ -57,5 +57,5 @@ je m'appelle Tom j'ai 17 ans et je suis chez Eden School en 2eme Année
 
 ### Merci d'avoir pris le temps de lire mon profil 
 
-<img src="https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/90605735/191010210-1742cff0-0b25-438b-a5d8-cbec9b689da9.gif" alt="drawing" style="width:100px;"/>
 
