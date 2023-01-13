@@ -3,7 +3,9 @@
 
 
 <p align="center">
-<div style="width:100%"><div style="height:0;padding-bottom:66.66666666666666%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<div id="header" align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-322.gif" width="300"/>
+</div>
 
 
 
