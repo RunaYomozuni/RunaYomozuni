@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" width="700"/>
 </div>
 
- <canvas width="600" height="300"  border= "1px" solid #000 id="canvas"></canvas>
+ <canvas width="600" height="300"  border= "1" solid #000 id="canvas"></canvas>
   <h1>Snake game</h1>
   <p>Score : <span class="Score">0</span></p>
   <p>Level : <span class="level">0</span></p>
