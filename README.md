@@ -7,7 +7,6 @@
   <img src="https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif" width="600"/>
 </div>
 
-<div backgroundColor = "red" heigh = "20" width = "20">ez</div>
 
 ## 🎃  Ma Presentation 
 
