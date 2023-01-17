@@ -33,7 +33,6 @@ Je suis Jonas j'ai 18 ans et chez Eden School en 2eme Année
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ### Comment me contacter ? 
-<a href="https://discord.gg/n9pYKfuqNj">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="mailto:jonascompper2@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 <a href="https://www.instagram.com/jonas.cppre/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
