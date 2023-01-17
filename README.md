@@ -4,7 +4,7 @@
 
 <p align="center">
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="900"/>
 </div>
 
 
