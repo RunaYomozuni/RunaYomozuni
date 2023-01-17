@@ -36,8 +36,6 @@ Je suis Jonas j'ai 18 ans et chez Eden School en 2eme Année
 </a>
 <a href="https://www.instagram.com/jonas.cppre/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-### Et si jamais :
-<a href="https://paypal.me/RunaY0m0zuki">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-</a>
+
 
 ### Amuse toi bien sur mon profil
