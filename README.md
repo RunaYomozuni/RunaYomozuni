@@ -10,7 +10,7 @@
 
 ## 🎃  Ma Presentation 
 
-Je m'appelle Jonas j'ai 18 ans et chez Eden School en 2eme Année 
+Je m'appelle Jonas j'ai 18 ans et chez Eden School en 2eme année 
 
 
 ###  Mes Competences : 
